@@ -8,7 +8,7 @@ The scaled processes join in *the same MPI Intra-communicator* as the running pr
 - _**Scale In**_: Remove MPI processes from the running processes.
 
 #### Reference
-> M. Hanai and G. Theodoropoulos _"Dynamic Scaling on MPI: MPI Process Provisioning / De-provisioning at Runtime"_ (2020)
+> M. Hanai and G. Theodoropoulos _"Performance Evaluation of Dynamic Scaling on MPI"_ (2020)
 
 ## Quick Start
 ```bash
