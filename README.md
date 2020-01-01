@@ -9,7 +9,7 @@ The scaled processes join in *the same MPI Intra-communicator* as the running pr
 
 #### Reference
 > [M. Hanai and G. Theodoropoulos _"Performance Evaluation of Dynamic Scaling on MPI"_ (arXiv 2020)](http://arxiv.org/abs/1912.12918)
-]
+
 
 ## Quick Start
 ```bash
